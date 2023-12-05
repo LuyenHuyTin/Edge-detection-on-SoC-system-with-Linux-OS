@@ -1,0 +1,1 @@
+# Edge-detection-on-SoC-system-with-Linux-OS
